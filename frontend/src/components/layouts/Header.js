@@ -21,7 +21,7 @@ export default function Header () {
         <div className="col-12 col-md-3">
           <div className="navbar-brand">
             <Link to="/">
-              <img width="150px" alt='Fashion Files logo' src="E:\WhatsApp Image 2025-02-20 at 10.05.05 PM.jpeg" />
+              <img width="150px" alt='Fashion Files' src="" />
             </Link>
             </div>
         </div>
