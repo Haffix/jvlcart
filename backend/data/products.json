@@ -1,66 +1,66 @@
 [
     {
-        "name": "OPPO F21s Pro 5G",
-        "price": 245.67,
-        "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+        "name": "White moonlight fairy long dress",
+        "price": 24.67,
+        "description": "Beautiful elegant long maxi with back tuzzle, white gown korean suit imported fabric.",
         "ratings": 4.5,
         "images": [
             {
-                "image": "/images/products/1.jpg"
+                "image": "https://i.pinimg.com/736x/39/86/fb/3986fb70ae2d20a971bb9b9299a085a6.jpg"
             },
             {
-                "image": "/images/products/2.jpg"
+                "image": "https://i.pinimg.com/736x/39/86/fb/3986fb70ae2d20a971bb9b9299a085a6.jpg"
             }
         ],
-        "category": "Mobile Phones",
-        "seller": "Amazon",
+        "category": "Clothes/Shoes",
+        "seller": "jhb enterprice",
         "stock": 5,
         "numOfReviews": 15,
         "reviews": []
     },
     {
-        "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
-        "price": 150.32,
-        "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+        "name": "Ivory Khaddi Silk Peshwas With Gota Worked",
+        "price": 15.32,
+        "description": "Turn heads in this ivory Khaddi silk peshwas with a printed border and embellished neckline. The gota finished worked jacket is paired with a worked gota jacket in signature geometric pattern and burgundy colored printed organza dupatta that is finished with gota detailing..",
         "ratings": 3.5,
         "images": [
             {
-                "image": "/images/products/2.jpg"
+                "image": "https://i.pinimg.com/736x/c8/e6/e0/c8e6e0e7002a213bcc30d8191cb790a2.jpg"
             }
         ],
         "category": "Accessories",
-        "seller": "Flipkart",
+        "seller": "jannani traders",
         "stock": 9,
         "numOfReviews": 5,
         "reviews": []
     },
     {
-        "name": "Dell Inspiron 3511 Laptop",
-        "price": 440.57,
-        "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
+        "name": "Floral printed dupatta with chanderi peach",
+        "price": 44.57,
+        "description": "Anarkali Salwar Kameez :- floral printed dupatta with chanderi peach trouser kurta set",
         "ratings": 2,
         "images": [
             {
-                "image": "/images/products/3.jpg"
+                "image": "https://i.pinimg.com/736x/c1/f6/3f/c1f63f4bc57c22e2004d0fb5004063a8.jpg"
             }
         ],
-        "category": "Laptops",
-        "seller": "Ebay",
+        "category": "Clothes/Shoes",
+        "seller": "Jananidress",
         "stock": 9,
         "numOfReviews": 12,
         "reviews": []
     },
     {
-        "name": "Lenovo IdeaPad Slim 3 Laptop",
-        "price": 250.45,
-        "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+        "name": " Antiskinny Jeans Trend Has Come Back",
+        "price": 25.45,
+        "description": "If you want to upgrade your denim collection, consider these flare-jeans outfits everyone from Harry Styles to Gigi Hadid is already wearing.",
         "ratings": 4,
         "images": [
           {
-            "image": "/images/products/6.jpg"
+            "image": "https://i.pinimg.com/736x/30/a1/d7/30a1d7bc39c3916623a80d0d01b86acd.jpg"
           }
         ],
-        "category": "Laptops",
+        "category": "Clothes/Shoes",
         "seller": "Ebay",
         "stock": 9,
         "numOfReviews": 12,

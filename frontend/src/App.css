@@ -6,6 +6,7 @@ body {
   margin: 0px;
   padding: 0px;
   overflow-x: hidden;
+  background-color: rgb(119, 54, 105)
 }
 
 /* Scroll Bar */
@@ -27,12 +28,12 @@ body {
 }
 
 nav {
-  background-color: #232f3e;
+  background-color: #a81351;
   padding: 1rem 1rem;
 }
 
 #search_btn {
-  background-color: #febd69;
+  background-color: #8b0f71;
 }
 
 .input-group {
@@ -47,7 +48,7 @@ nav {
 
 #login_btn,
 #view_btn {
-  background-color: #febd69;
+  background-color: #c481d1;
   padding: 0.4rem 1.8rem;
   font-family: calibri;
 }
@@ -58,7 +59,7 @@ nav {
 }
 
 #cart_count {
-  background-color: #febd69;
+  background-color: #a06ba7;
   padding: 0.2rem 0.5rem;
   border-radius: 0.2rem;
   color: black;
@@ -80,7 +81,7 @@ nav {
 }
 
 .card-title a:hover {
-  color: #fa9c23;
+  color: #33729c;
   text-decoration: none;
 }
 
@@ -93,7 +94,7 @@ nav {
 }
 
 #view_btn {
-  background-color: #fa9c23;
+  background-color: #2399fa;
   color: white;
 }
 
@@ -104,7 +105,7 @@ nav {
 
 .ratings {
   font-size: 1.2rem;
-  color: #fdcc0d;
+  color: #640e0e;
 }
 
 #no_of_reviews {
