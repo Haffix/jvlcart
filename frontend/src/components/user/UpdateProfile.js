@@ -117,7 +117,9 @@ export default function UpdateProfile () {
                         </label>
                         </div>
                     </div>
+                    
                 </div>
+
 
                 <button type="submit" className="btn update-btn btn-block mt-4 mb-3" >Update</button>
             </form>

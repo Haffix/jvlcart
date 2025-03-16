@@ -21,7 +21,7 @@ export default function Header () {
         <div className="col-12 col-md-3">
           <div className="navbar-brand">
             <Link to="/">
-              <img width="150px" alt='Fashion Files' src="" />
+              <img width="150px" alt='Fashion Files' src="https://www.onlinelogomaker.com/blog/wp-content/uploads/2017/09/fashion-logo-design.jpg" />
             </Link>
             </div>
         </div>

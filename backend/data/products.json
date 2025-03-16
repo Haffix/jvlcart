@@ -113,5 +113,422 @@
         "stock": 6,
         "numOfReviews": 9,
         "reviews": []
+    },
+
+
+
+    {
+        "name": "  Leather Belt Quartz Watch",
+        "price": "9",
+        "description": "6pcs/Set Fashionable Minimalist Round Arabic Heart-Shaped Dial Leather Belt Quartz Watch + Butterfly Watch Accessories, Suitable For Birthday & Halloween Gifts" ,
+        "ratings": 4.5,
+        "images": [
+            {
+               "image": "https://i.pinimg.com/736x/6c/c9/d9/6cc9d912bef7f7da232a741c014566ee.jpg"
+            }
+           
+        ],
+        "category": "Accessories",
+        "seller": "Modal enterprice",
+        "stock": 5,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+
+
+
+
+
+  
+
+    {
+        "name": "Dum Handi chicken Biryani",
+        "price": 6.2,
+        "description": "Dum Handi chicken Biryani is prepared in an earthen or clay pot called Haandi. Popular Indian non vegetarian food.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/474x/78/58/1f/78581f19fc36893f41044913c66f753d.jpg"
+            },
+            {
+                "image": "https://i.pinimg.com/474x/94/2d/ce/942dce1bc2127141252fa224c6e2d4e3.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "hot Store",
+        "stock": 22,
+        "numOfReviews": 55,
+        "reviews": []
+    },
+
+    {
+        "name": "The Cumin Club Indian Meal Kit",
+        "price": 5.6,
+        "description": "Easy, Healthy, and Irresistibly Flavorful - Instant Meals Effortless Cooking & Wholesome Goodness -Ready to Eat Indian Food - Pack of 5.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/736x/83/43/32/8343328499d97cb31eeeaa64315ab430.jpg"
+            },
+            {
+                "image": "https://i.pinimg.com/474x/91/66/fa/9166fa76729c75362ab17afe30d7a1bf.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "hot Store",
+        "stock": 25,
+        "numOfReviews": 45,
+        "reviews": []
+    },
+
+    {
+        "name": "It Ends With Us - HooverColleen Hoover ",
+        "price": 2.7,
+        "description": "Gripping and thought-provoking novel that explores the complexities of love, relationships, and the power of self-worth.",
+        "ratings": 4.6,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/474x/59/5d/b2/595db227133b3676ca6241098383b094.jpg"
+            },
+            {
+                "image": "https://i.pinimg.com/474x/b8/a1/30/b8a130633af87da1a1420462fb2fc69c.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "HJ enterprise",
+        "stock": 20,
+        "numOfReviews": 44,
+        "reviews": []
+    },
+    {
+        "name": "I don't love you anymore",
+        "price": 2.17,
+        "description": "These gripping books to read you'll want to just devour in one sitting, even if that means pulling an all-nighter! Find our favorites now.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/474x/89/99/5c/89995cf05657480e5388a42ef95891f8.jpg"
+            },
+            {
+                "image": "https://i.pinimg.com/474x/6a/9f/d6/6a9fd6af2bbad3e7874c0e9e6c2c2ac8.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "kJ enterprise",
+        "stock": 10,
+        "numOfReviews": 22,
+        "reviews": []
+    },
+    {
+        "name": "White Morden Fort Modern Contemporary Sofa",
+        "price": 99.17,
+        "description": "White Morden Fort Modern Contemporary Sofa Couch with Deep Button Tufting Dutch Velvet.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/474x/18/b2/80/18b2801a3d6c4e4f14ea439d943fc67a.jpg"
+            },
+            {
+                "image": "https://i.pinimg.com/474x/26/96/cc/2696ccb0ea682ed1365852ecc0a51150.jpg"
+            }
+        ],
+        "category": "Home",
+        "seller": "AK enterprise",
+        "stock": 5,
+        "numOfReviews": 22,
+        "reviews": []
+    },
+
+    {
+        "name": "Mirror Glass Square Wall Clock",
+        "price": 58.17,
+        "description": "Gatsby Modern Diamante Crushed Crystal Mirror Glass Square Wall Clock 50cm Silver Black hands.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/474x/ee/17/55/ee17551eedd6a42b99430c01bfdd09aa.jpg"
+            },
+            {
+                "image": "https://i.pinimg.com/474x/45/68/04/456804cbbc13f76dbb73d74ca54bdf70.jpg"
+            }
+        ],
+        "category": "Home",
+        "seller": "Modal enterprise",
+        "stock": 10,
+        "numOfReviews": 22,
+        "reviews": []
+    },
+
+    {
+        "name": "Badminton",
+        "price": 20.17,
+        "description": "6 badminton ball feeling exercises #badminton.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/474x/8a/7e/59/8a7e5985b47932000b9a8cf6a96ee090.jpg"
+            },
+            {
+                "image": "https://i.pinimg.com/474x/be/58/2d/be582ddc3f5d39c0e96c1540cee4b37f.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "MG enterprise",
+        "stock": 10,
+        "numOfReviews": 22,
+        "reviews": []
+    },
+
+    {
+        "name": " Volleyball ",
+        "price": 15.17,
+        "description": "Premium Soft Size 5 Volleyball -Blue.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/474x/bb/c9/71/bbc971f3e0b681941e9455b07670e543.jpg"
+            },
+            {
+                "image": "https://i.pinimg.com/474x/f3/a4/54/f3a4547a4b1a526b15c76c7bf2f14d87.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "RG enterprise",
+        "stock": 10,
+        "numOfReviews": 22,
+        "reviews": []
+    },
+
+    {
+        "name": " Kenra Platinum Luxe Shine Shampoo/Conditioner ",
+        "price": 30.17,
+        "description": "Designed for daily use, transform dull and lifeless strands to glamorous and full-bodied hair.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/474x/45/42/58/45425848de6ad2fc86214ad63e74a79f.jpg"
+              
+            },
+            {
+                "image": "https://i.pinimg.com/474x/81/a7/e4/81a7e4573ecea76de17067aa4ef03380.jpg"
+            }
+        ],
+        "category": "Beauty/Health",
+        "seller": "Beauty enterprise",
+        "stock": 10,
+        "numOfReviews": 25,
+        "reviews": []
+    },
+
+    {
+        "name": " sunscreen ",
+        "price": 12.17,
+        "description": "Favorite Lightweight, non greasy mineral sunscreen.",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/474x/83/11/9a/83119ac2835e4e02b3ff4b9a436e5e49.jpg"
+            },
+            {
+                "image": "https://i.pinimg.com/474x/fe/ab/d9/feabd92d156682ae196ccd6e0bdfc66a.jpg"
+            }
+        ],
+        "category": "Beauty/Health",
+        "seller": "Beauty enterprise",
+        "stock": 5,
+        "numOfReviews": 22,
+        "reviews": []
+    },
+
+
+
+
+
+
+
+    {
+        "name": " Raincoat jackets ",
+        "price": 10.17,
+        "description": "Besshopie EVA Raincoat Waterproof Rain Poncho Reusable Unisex Men Women Long Clear Rain Wear.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/736x/ec/d9/85/ecd985f49f7d4d210814ca99b8ca9a93.jpg"
+            },
+            {
+                "image": "https://i.pinimg.com/474x/11/94/eb/1194eb041f46af37735bf71669d6449c.jpg"
+            }
+        ],
+        "category": "Outdoor",
+        "seller": "Jk enterprise",
+        "stock": 5,
+        "numOfReviews": 22,
+        "reviews": []
+    },
+{
+        "name": " Iron large swing",
+        "price": 15.17,
+        "description": "Provide your guests with a comfortable and stylish place to not only sit but swing with the  Swing Chair. Made of high-quality iron, this swing is built to last.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/736x/98/a9/aa/98a9aaa2fa1911d1ddf3e30c1f59818b.jpg"
+            },
+            {
+                "image": "https://i.pinimg.com/736x/44/26/a3/4426a30d7933e30a04b6814877b5cb63.jpg"
+            }
+        ],
+        "category": "Outdoor",
+        "seller": "Jk enterprise",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+
+    {
+        "name": "Stainless steel Refrigerator",
+        "price": 22.17,
+        "description": "Check out the Summit FFBF285SS 24-Inch Stainless Steel Refrigerator in Appliances, Refrigerators from AJ Madison Appliances for 1160.00.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/736x/b2/58/7c/b2587c2042c660c2d3f1f266747b2e4e.jpg"
+            },
+            {
+                "image": "https://i.pinimg.com/736x/fe/f7/8e/fef78e214799f11dd04080fac7001424.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "AK enterprise",
+        "stock": 7,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+
+    {
+        "name": "Iron box",
+        "price": 8.17,
+        "description": "Below, you will find an extensive review for every one of them, based on several criteria such as price, user-friendliness, brand, and a lot more!",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/736x/1c/5c/7c/1c5c7cf2ef5109e8f292e44a893f35a2.jpg"
+            },
+            {
+                "image": "https://i.pinimg.com/236x/5a/38/44/5a38446a555c4abcd1f4b58202c0bb27.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "AK enterprise",
+        "stock": 6,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+
+
+    {
+        "name": "I phone-16",
+        "price": 110.17,
+        "description": " apple has unveiled iPhone X, an all-glass design packed with a host of new features, including wireless charging, and face ID.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/736x/44/6a/05/446a054a942b369a50fc3d5eb1908856.jpg"
+            },
+            {
+                "image": "https://i.pinimg.com/474x/6b/2a/b7/6b2ab7f29b51c3fceb6985866cead9f0.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Trends enterprise",
+        "stock": 4,
+        "numOfReviews": 10,
+        "reviews": []
+    },
+
+
+    {
+        "name": "SAMSUNG",
+        "price": 95.17,
+        "description": " Awesome is For Everyone. The new Galaxy A55 5G and Galaxy A35 5G add a dose of awesome to your everyday. With an awesome camera, those evening snaps are vivid and clear thanks to enhanced nightography features.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/736x/1c/ce/99/1cce99de15bfea9028d23b1965a04f0f.jpg"
+            },
+            {
+                "image": "https://i.pinimg.com/474x/a2/11/5f/a2115f377c3c8aa6109879203fef8446.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Trends enterprise",
+        "stock": 4,
+        "numOfReviews": 10,
+        "reviews": []
+    },
+
+    {
+        "name": "HP Laptops",
+        "price": 150.17,
+        "description": "HP has launched 15s-gy0003AU Laptop in India online. It has an MRP price of Rs 27,784 and will be available for a lower price online.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/736x/c8/4a/2b/c84a2be2b4c26377fe0a7047f2f7d3b1.jpg"
+            },
+            {
+                "image": "https://i.pinimg.com/236x/c3/03/21/c30321fef0f17c106c4ffff666043fc3.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "MK enterprise",
+        "stock": 5,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+
+
+  
+
+    {
+        "name": "Butterfly chain",
+        "price": 8.20,
+        "description": "Looking for an incredible deal on a Cuban link bracelet? Check out our Butterfly Chain 8mm Cuban Chain Bracelet! This stunning piece is crafted with high quality 14k gold plating, and features an intricate butterfly design. ",
+        "ratings": 4.7,
+        "images": [
+            {
+                "image": "https://i.pinimg.com/736x/d3/bb/7b/d3bb7b060aad7ce3ec50758b9e6c43a7.jpg"
+            },
+            {
+                "image": "https://i.pinimg.com/736x/77/19/6d/77196d5c283728b3970bdfaa862a841d.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "New enterprise",
+        "stock": 7,
+        "numOfReviews": 18,
+        "reviews": []
+    },
+
+    {
+        "name": " Noise Cancelling Headphones Bluetooth Headphones",
+        "price": 20.20,
+        "description": " MOVSSOU E7 Active Noise Cancelling Headphones Bluetooth Headphones Wireless Headphones Over Ear with Microphone Deep Bass, Comfortable Protein Earpads, 30 Hours Playtime for Travel/Work, Black",
+        "ratings": 4.3,
+        "images": [
+            {
+                "image": "https://m.media-amazon.com/images/I/716ptOGRg9L._AC_SY355_.jpg"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/I/41PNy9KnLbL._SS60_.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "HK enterprise",
+        "stock": 7,
+        "numOfReviews": 18,
+        "reviews": []
     }
+
+
 ]
